@@ -4,8 +4,8 @@ var { Route, Router, IndexRoute, hashHistory} = require('react-router')
 var Main = require('Main')
 var Timer = require('Timer')
 var Countdown = require('Countdown')
+
 //Load Foundation
-require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation()
 //app css
 require('style!css!sass!applicationStyles')
