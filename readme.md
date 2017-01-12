@@ -1,1 +1,1 @@
-Simple Timer app using React
+https://timer-app-react.herokuapp.com/
